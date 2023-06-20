@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "833765741392",
+    "project_id": "notepads-29b86",
+    "storage_bucket": "notepads-29b86.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833765741392:android:f36785b5180509c0e11255",
+        "android_client_info": {
+          "package_name": "com.mynewproject.notepadish"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "833765741392-4cf35uodl5r7nmpt5pncmg7iotni8umf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCr95WWoiBGAnKlWJq8fTAGuCARPju2IdU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "833765741392-4cf35uodl5r7nmpt5pncmg7iotni8umf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "833765741392-54b7ssm5br3oibi1gc4pj21j68v68toc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mynewproject.notepadish"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833765741392:android:6e17b493319e4f87e11255",
+        "android_client_info": {
+          "package_name": "com.pixolity.notepadex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "833765741392-4cf35uodl5r7nmpt5pncmg7iotni8umf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCr95WWoiBGAnKlWJq8fTAGuCARPju2IdU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "833765741392-4cf35uodl5r7nmpt5pncmg7iotni8umf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "833765741392-54b7ssm5br3oibi1gc4pj21j68v68toc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mynewproject.notepadish"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
